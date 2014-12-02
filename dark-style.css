@@ -41,11 +41,18 @@ header h2 {
 header h1 .what{
   display: none;
 }
+
+@media screen and (min-width: 800px) {
+  header h1 .where {
+      border:3px solid white;
+  }
+}
+
 header h1 .where{
   padding: 6px 12px;
   color:#F7DA03;
   background: #303030;
-  border:3px solid white;
+
 }
 header h1 .where{
   margin: 0 auto;
