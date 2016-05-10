@@ -3,34 +3,42 @@
 
 This is a repository for Saint Petersburg Nodeschool Chapter. Our
 primary language is Russian, so rest of this README will be in
-Russian. Feel free to contact us (via @nodeschool/spb or directly
-@marinintim or @glukki), if you have any questions.
+Russian. Feel free to contact us (via
+[[https://github.com/orgs/nodeschool/teams/spb][@nodeschool/spb]] or
+directly [[https://github.com/marinintim][@marinintim]] or
+[[https://github.com/glukki][@glukki]]), if you have any questions.
 
 ** Что такое нодскул?
 
   Это открытое сообщество людей, которые изучают Node.js.
 
   В частности, мы проводим
-  [[https://github.com/nodeschool/spb/issues/][мероприятия]], на
+  [[https://github.com/nodeschool/spb/issues?q=is%3Aissue+label%3A%D0%9C%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5][мероприятия]], на
   которых легко как начать знакомство с платформой, так и углубить
   свои знания.
 
 ** Как проходят мероприятия?
 
-  Международное сообщество создало [[http://nodeschool.io][больше
-  тридцати воркшопов]], это такие серии упражнений на самые разные
-  темы (от азов джаваскрипта до шейдеров на webgl). Каждый приносит с
-  собой ноутбук, выбирает воркшоп по вкусу и начинает его проходить.
-  На каждом занятии есть менторы, которые помогут в трудную минуту и с
-  которыми можно просто обсудить последние новости мира джаваскрипта.
+   Международное сообщество создало [[http://nodeschool.io/#workshopper-list][больше
+  сорока воркшопов]] (45 только упомянутых на сайте!), это такие серии
+  упражнений на самые разные темы (от азов джаваскрипта до шейдеров на
+  webgl). Каждый приносит с собой ноутбук, выбирает воркшоп по вкусу и
+  начинает его проходить. На каждом занятии есть менторы, которые
+  помогут в трудную минуту и с которыми можно просто обсудить
+  последние новости мира джаваскрипта.
 
   Обычно мероприятие идёт четыре часа, но всегда можно уйти пораньше (или прийти попозже).
 
 ** Кто такие менторы?
 
    Менторы — это люди, которые приходят помогать советом или примером.
-   Менторить к нам приходили такие люди, как @marinintim, @glukki,
-   @ipelekhan, @vkfont, @h4 и @agufranov (впишите себя!).
+   К нам приходили помогать такие люди, как
+   [[https://github.com/marinintim][@marinintim]],
+   [[https://github.com/glukki][@glukki]],
+   [[https://github.com/ipelekhan][@ipelekhan]],
+   [[https://github.com/vkfont][@vkfont]],
+   [[https://github.com/h4][@h4]] и
+   [[https://github.com/agufranov][@agufranov]] (впишите себя!).
 
 ** Как прийти?
 
@@ -44,13 +52,15 @@ Russian. Feel free to contact us (via @nodeschool/spb or directly
 
 ** Как стать ментором?
 
-   Напишите одному из менторов, например, @marinintim или @glukki, мы расскажем, что и как
+   Напишите одному из менторов, например,
+   [[https://github.com/marinintim][@marinintim]] или
+   [[https://github.com/glukki][@glukki]], мы расскажем, что и как
    нужно делать :)
 
 ** Где подписаться?
-   + Во-первых, этот репозиторий: @nodeschool/spb
+   + Во-первых, этот репозиторий: [[https://github.com/nodeschool/spb][@nodeschool/spb]]
    + Твиттер: [[https://twitter.com/nodeschoolspb][@nodeschoolspb]]
-   + Сообщество в ВК: [[https://vk.com/nodeschool_spb][=vk.com/nodeschool_spb=]]
+   + Сообщество в ВК: [[https://vk.com/nodeschool_spb][vk.com/nodeschool_spb]]
    + Мы в Телеграме:
      [[https://telegram.me/nodeschoolspb_group][супергруппа]],
      [[https://telegram.me/nodeschoolspb][канал]].
@@ -68,7 +78,9 @@ Russian. Feel free to contact us (via @nodeschool/spb or directly
 
 ** Логотип и стикеры
 
- У нас есть стикеры, спасибо @ipelekhan и @Gurylev!
+ У нас есть стикеры, спасибо
+ [[https://github.com/ipelekhan][@ipelekhan]] и
+ [[https://github.com/Gurylev][@Gurylev]]!
 
  Стикеры можно получить на занятии, они шестиугольные и хорошо
  сочетаются с остальными шестиугольными стикерами.
@@ -76,7 +88,7 @@ Russian. Feel free to contact us (via @nodeschool/spb or directly
 #+ATTR_HTML: alt="Стикер в PNG"
 [[file:images/nodeschool-sticker-spb.png]]
 #+ATTR_HTML: alt="Стикер в SVG"
-[[file:nodeschool-sticker-spb.svg]]
+[[file:./nodeschool-sticker-spb.svg]]
 
 
 ** License
