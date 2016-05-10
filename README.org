@@ -2,7 +2,7 @@
 #+SUBTITLE: Отделение Нодскула в Санкт-Петербурге
 
 This is a repository for Saint Petersburg Nodeschool Chapter. Our
-primary language is Russian, so rest of this README will be in
+primary language is Russian, so the rest of this README will be in
 Russian. Feel free to contact us (via
 [[https://github.com/orgs/nodeschool/teams/spb][@nodeschool/spb]] or
 directly [[https://github.com/marinintim][@marinintim]] or
