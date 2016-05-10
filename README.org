@@ -89,7 +89,7 @@ directly [[https://github.com/marinintim][@marinintim]] or
 #+ATTR_HTML: alt="Стикер в PNG"
 [[file:images/nodeschool-sticker-spb.png]]
 #+ATTR_HTML: alt="Стикер в SVG"
-[[file:./nodeschool-sticker-spb.svg]]
+[[file:images/nodeschool-sticker-spb.svg]]
 
 
 ** License
