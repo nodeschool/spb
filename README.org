@@ -44,8 +44,8 @@ directly [[https://github.com/marinintim][@marinintim]] or
 ** Как прийти?
 
    Следите за нашим репозиторием (кнопка Watch), перед каждым занятием
-   мы открываем ишью (например,
-   [[https://github.com/nodeschool/spb/issues/23][#23]]), в которой
+   мы открываем [[https://github.com/nodeschool/spb/issues?q=is%3Aopen+is%3Aissue+label%3AМероприятие][ишью]] (например,
+   [[https://github.com/nodeschool/spb/issues/27][#27]]), в которой
    описано как добраться и что делать потом. В ишье стоит оставить
    =:octocat:= — так проще понять, сколько будет человек.
 
