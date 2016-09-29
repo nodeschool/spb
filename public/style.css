@@ -1,0 +1,144 @@
+html,body{
+  min-height: 100%;
+  font-family: Helvetica, "Trebuchet MS", Arial, sans-serif;
+}
+body{
+  background: white;
+  color:#303030;
+  margin: 0;
+  padding: 0;
+}
+header{
+  margin-bottom: 50px;
+}
+header h1{
+  margin: 0;
+  font-size: 60px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  background: #F7DA03 url('node-js.svg') 98% center no-repeat;
+  /*background-size: 100px auto;*/
+  background-size: auto 150px;
+  padding: 40px 20px;
+}
+header h2 {
+  margin:0;
+  background-color: #303030;
+  padding: 10px 20px;
+  color:white;
+  letter-spacing: 4px;
+  text-align:center;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 200;
+  color:#F7DA03;
+
+}
+header h1 span{
+  display: block;
+  /*font-size: 50px;*/
+}
+footer{
+  background: #F7DA03 url('schoollines.png') 98% center repeat-x;
+}
+.container, section {
+  max-width: 860px;
+  margin:0 auto
+}
+section{
+  margin-bottom:50px;
+  padding:10px 0;
+}
+p{
+  font-size: 20px;
+  max-width: 90%;
+  text-align: left;
+  margin-bottom: 30px;
+  line-height: 1.5em;
+}
+
+.term,
+.term .chrome,
+.term .chrome .btn{
+  border:solid 2px #303030;
+}
+.term{
+  max-width:500px;
+  min-width: 300px;
+  border-radius: 4px;
+  margin-bottom:10px;
+  display: inline-block;
+  text-align: left;
+}
+.term .shell{
+  min-height:200px;
+  overflow:hidden;
+}
+.term .chrome{
+  height:34px;
+  padding-left:4px;
+  border-top:0 none;
+  border-right:0 none;
+  border-left:0 none;
+}
+.term .chrome:before{
+  content:" ";
+  display:inline-block;
+  height:100%;
+  vertical-align:middle;
+}
+.term .chrome .btn{
+  display:inline-block;
+  vertical-align:middle;
+  width:8px;
+  height:8px;
+  border-radius:100%;
+}
+.term .shell{
+  padding:10px;
+  color:#777;
+}
+.term .workshopper{
+  background: #F8F0BD;
+  padding:2px;
+}
+.term .workshopper code{
+  border:0 none;
+}
+.term code{
+  display:block;
+  margin:12px 0;
+  padding: 4px 10px;
+  border-left: 8px solid #F7DA03;
+  font-family: AndaleMono, courier, monospace;
+}
+.term.max{
+  top:0;
+  left:0;
+  position:absolute;
+  width:100%;
+  height:100%;
+  max-width:none;
+}
+.term.min{
+  position:absolute;
+  bottom:0;
+}
+.term.min .shell{
+  min-height:0;
+  height:0;
+  padding:0;
+}
+.term.min .chrome{
+  border:0 none;
+}
+
+#intro{
+}
+#intro .term{
+  width:40%;
+  max-width: 500px;
+}
+div.term ~ div.term {
+  margin-left: 50px;
+}
