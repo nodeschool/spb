@@ -8,5 +8,5 @@ cd public
 git init
 git add .
 git commit -m ":turtle: Cowabunga, dude!"
-git remote set-url origin git@github.com:nodeschool/spb.git
+git remote add origin git@github.com:nodeschool/spb.git
 git push --force --quiet origin master:gh-pages > /dev/null 2>&1
