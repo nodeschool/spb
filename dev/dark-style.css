@@ -61,7 +61,8 @@ footer{
   height: 160px;
   background: url('node-js.svg') center center no-repeat;
   background-size: auto 150px;
-  margin-top: 50px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 .container, section {
   max-width: 860px;
