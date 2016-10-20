@@ -10,9 +10,10 @@ before_install:
 - git --version
 install:
   - npm install --no-optional
-before_script:
-  - npm run build
 script:
+  - npm run build
+after_success:
+  - chmod a+x deploy-to-gh-pages.sh
   - npm run deploy
 branches:
   only:
