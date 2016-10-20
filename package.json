@@ -1,0 +1,26 @@
+{
+  "name": "spb",
+  "version": "1.0.0",
+  "description": "This is a repository for the St. Petersburg Nodeschool Chapter. Our primary language is Russian, so the rest of this README will be in Russian. Feel free to contact us (via [[https://github.com/orgs/nodeschool/teams/spb][@nodeschool/spb]] or directly [[https://github.com/marinintim][@marinintim]] or [[https://github.com/glukki][@glukki]]), if you have any questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp build",
+    "deploy": "./deploy-to-gh-pages.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodeschool/spb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodeschool/spb/issues"
+  },
+  "homepage": "http://nodeschool.io/spb",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1"
+  }
+}
