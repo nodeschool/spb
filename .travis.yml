@@ -2,6 +2,9 @@ language: node_js
 node_js:
   - "stable"
 before_install:
+- export AUTHOR_NAME="$(git log -1 --no-merges --pretty="%aN")"
+- export COMMIT_MESSAGE="$(git log -1 --no-merges --pretty="%B")"
+- export COMMIT_DATE="$(git log -1 --no-merges --pretty="%aD")"
 - openssl aes-256-cbc -K $encrypted_8b34ab5bd7eb_key -iv $encrypted_8b34ab5bd7eb_iv
   -in publish-key.enc -out ~/.ssh/publish-key -d
 - chmod u=rw,og= ~/.ssh/publish-key
