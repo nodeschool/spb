@@ -64,7 +64,7 @@ directly [[https://github.com/marinintim][@marinintim]] or
 ** Где подписаться?
    + Во-первых, этот репозиторий: [[https://github.com/nodeschool/spb][@nodeschool/spb]]
    + Твиттер: [[https://twitter.com/nodeschoolspb][@nodeschoolspb]]
-   + Сообщество в ВК: [[https://vk.com/nodeschool_spb][vk.com/nodeschool_spb]]
+   + Сообщество в ВК: [[https://vk.com/nodeschoolspb][vk.com/nodeschoolspb]]
    + Мы в Телеграме:
      [[https://telegram.me/nodeschoolspb_group][супергруппа]],
      [[https://telegram.me/nodeschoolspb][канал]].
