@@ -175,12 +175,16 @@ a:hover{
 
 
 .sign{
-  padding: 6px 12px;
+  display: inline-block;
+  position: relative;
+  padding: 6px 20px;
   color:#F7DA03;
   background: #303030;
   border:3px solid white;
   text-transform: uppercase;
+  text-align: center;
 }
+
 .sign:before,
 .sign:after{
   content:"";
@@ -188,9 +192,16 @@ a:hover{
   width:3px;
   height: 40px;
   background: white;
-  position: relative;
-  top:  55px;
+  position: absolute;
+  bottom: -44px;
 }
+.sign:before{
+  left: 12px;
+}
+.sign:after{
+  right: 12px;
+}
+
 #next h2{
   margin-bottom: 80px;
 }
